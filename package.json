@@ -2,7 +2,7 @@
   "name": "el-desvio-restobar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JorgeIsaacVilla.qithub.io/el-desvio-restobar-bebidas",
+  "homepage": "https://JorgeIsaacVilla.qithub.io/bebidas-restobar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
