@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bebidas-restobar/static/css/main.d40bc599.css",
-    "main.js": "/bebidas-restobar/static/js/main.287f80f4.js",
+    "main.js": "/bebidas-restobar/static/js/main.e73e3a6f.js",
     "static/js/787.7a877da5.chunk.js": "/bebidas-restobar/static/js/787.7a877da5.chunk.js",
     "static/media/m9.png": "/bebidas-restobar/static/media/m9.2f80cb64f0f2eebaadc1.png",
     "static/media/m11.png": "/bebidas-restobar/static/media/m11.6c9dd241c62503e0de85.png",
@@ -16,7 +16,6 @@
     "static/media/m1.png": "/bebidas-restobar/static/media/m1.e5cb6131f0ef3d8a58b3.png",
     "static/media/m10.png": "/bebidas-restobar/static/media/m10.a797b771bee080d347a3.png",
     "static/media/m2.png": "/bebidas-restobar/static/media/m2.4a7e0b1b3b1fd19fef92.png",
-    "static/media/img10.jpg": "/bebidas-restobar/static/media/img10.571103f2e144519aa636.jpg",
     "static/media/img4.jpg": "/bebidas-restobar/static/media/img4.72232d80c309eb282b8c.jpg",
     "static/media/m3.png": "/bebidas-restobar/static/media/m3.3cd7b25cc37743cc5f6c.png",
     "static/media/img27.jpg": "/bebidas-restobar/static/media/img27.369596ace57e9edd5d83.jpg",
@@ -24,13 +23,14 @@
     "static/media/img11.jpg": "/bebidas-restobar/static/media/img11.58ad7272137dcce47374.jpg",
     "static/media/img14.jpg": "/bebidas-restobar/static/media/img14.41b74a756865739ab37f.jpg",
     "static/media/img20.jpg": "/bebidas-restobar/static/media/img20.e7898fc92a7fd8aff14e.jpg",
-    "static/media/img8.jpg": "/bebidas-restobar/static/media/img8.2703905502bc84914f56.jpg",
-    "static/media/img3.jpg": "/bebidas-restobar/static/media/img3.91273741f71d99e6ea54.jpg",
-    "static/media/img1.jpg": "/bebidas-restobar/static/media/img1.28c33a39db7ec5c4cfa1.jpg",
+    "static/media/img8.jpg": "/bebidas-restobar/static/media/img8.b12d6790edbdc231879c.jpg",
+    "static/media/img3.jpg": "/bebidas-restobar/static/media/img3.d813d5663f48741384eb.jpg",
     "static/media/imgQrWeb.PNG": "/bebidas-restobar/static/media/imgQrWeb.b6007424ba1c830080c1.PNG",
+    "static/media/img1.jpg": "/bebidas-restobar/static/media/img1.95f4301a3a5a20627594.jpg",
     "static/media/m7.png": "/bebidas-restobar/static/media/m7.9710d967b7a819970021.png",
     "static/media/Logotipo.png": "/bebidas-restobar/static/media/Logotipo.eb6825db70061f0abcaf.png",
     "static/media/img13.jpg": "/bebidas-restobar/static/media/img13.cdc6ba2946a4539d05fc.jpg",
+    "static/media/img10.jpg": "/bebidas-restobar/static/media/img10.571103f2e144519aa636.jpg",
     "static/media/img15.jpg": "/bebidas-restobar/static/media/img15.b4678a75dd6ef2557244.jpg",
     "static/media/img21.jpg": "/bebidas-restobar/static/media/img21.0220e07f2d5dff2cc85a.jpg",
     "static/media/imgQrBancolombia.PNG": "/bebidas-restobar/static/media/imgQrBancolombia.2a0335097e09e6059b03.PNG",
@@ -42,7 +42,7 @@
     "static/media/pacman.png": "/bebidas-restobar/static/media/pacman.896ce1564744692a707b.png",
     "static/media/img29.jpg": "/bebidas-restobar/static/media/img29.fce0103e31759e52e91d.jpg",
     "static/media/img7.jpg": "/bebidas-restobar/static/media/img7.720d5e31da6a4322fff6.jpg",
-    "static/media/img2.jpg": "/bebidas-restobar/static/media/img2.be58edb665bc87b96fbe.jpg",
+    "static/media/img2.jpg": "/bebidas-restobar/static/media/img2.14fec23a3fbb2adf41d5.jpg",
     "static/media/img23.jpg": "/bebidas-restobar/static/media/img23.9da54b791254f508bfa7.jpg",
     "static/media/img5.jpg": "/bebidas-restobar/static/media/img5.adf17cbb1ebed3e30830.jpg",
     "static/media/img25.jpg": "/bebidas-restobar/static/media/img25.f52dc9912212f134fba8.jpg",
@@ -64,11 +64,11 @@
     "static/media/icoFacebook.svg": "/bebidas-restobar/static/media/icoFacebook.b5a88e6a91c84e1aa5ae291ec7335f35.svg",
     "static/media/icoMenuClosed.svg": "/bebidas-restobar/static/media/icoMenuClosed.356d101572de6c63db16.svg",
     "main.d40bc599.css.map": "/bebidas-restobar/static/css/main.d40bc599.css.map",
-    "main.287f80f4.js.map": "/bebidas-restobar/static/js/main.287f80f4.js.map",
+    "main.e73e3a6f.js.map": "/bebidas-restobar/static/js/main.e73e3a6f.js.map",
     "787.7a877da5.chunk.js.map": "/bebidas-restobar/static/js/787.7a877da5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d40bc599.css",
-    "static/js/main.287f80f4.js"
+    "static/js/main.e73e3a6f.js"
   ]
 }
