@@ -1,15 +1,10 @@
 import React from "react";
 import "./Menu.css";
-import imagen1 from "./imgMenu3/img1.jpg";
-import imagen2 from "./imgMenu3/img2.jpg";
-import imagen3 from "./imgMenu3/img3.jpg";
 import imagen4 from "./imgMenu3/img4.jpg";
-import imagen5 from "./imgMenu3/img5.jpg";
 import imagen6 from "./imgMenu3/img6.jpg";
 import imagen7 from "./imgMenu3/img7.jpg";
 import imagen8 from "./imgMenu3/img8.jpg";
 import imagen9 from "./imgMenu3/img9.jpg";
-import imagen10 from "./imgMenu3/img10.jpg";
 import imagen11 from "./imgMenu3/img11.jpg";
 import imagen12 from "./imgMenu3/img12.jpg";
 import imagen13 from "./imgMenu3/img13.jpg";
@@ -35,33 +30,9 @@ function Menu3({sectionId, onProductClick}){
     }
     
     const menuItem =[
-    {pos:1,
-    image: imagen1,
-    food:'Vaso 9 onz',
-    price:'',
-    ingredients:''},
-
-    {pos:2,
-    image: imagen2,
-    food:'Cristal Bolsa 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:3,
-    image: imagen3,
-    food:'Cristal Pet 300 ml',
-    price:'',
-    ingredients:''},
-
     {pos:4,
     image: imagen4,
     food:'Cristal 420 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:5,
-    image: imagen5,
-    food:'Cristal Pet 600 ml',
     price:'',
     ingredients:''},
 
@@ -86,12 +57,6 @@ function Menu3({sectionId, onProductClick}){
     {pos:9,
     image: imagen9,
     food:'Cristal Bolsa 6 L',
-    price:'',
-    ingredients:''},
-
-    {pos:10,
-    image: imagen10,
-    food:'Cristal Bot 18.9 L',
     price:'',
     ingredients:''},
 
@@ -131,11 +96,11 @@ function Menu3({sectionId, onProductClick}){
     price:'',
     ingredients:''},
 
-    {pos:17,
+    /*{pos:17,
     image: imagen17,
     food:'Bretaña 8.5 onz (Retornable)',
     price:'',
-    ingredients:''},
+    ingredients:''},*/
 
     {pos:18,
     image: imagen18,
@@ -143,11 +108,11 @@ function Menu3({sectionId, onProductClick}){
     price:'',
     ingredients:''},
 
-    {pos:19,
+    /*{pos:19,
     image: imagen19,
     food:'Bretaña 12 onz (Retornable)',
     price:'',
-    ingredients:''},
+    ingredients:''},*/
 
     {pos:20,
     image: imagen20,
@@ -193,7 +158,7 @@ function Menu3({sectionId, onProductClick}){
 
     {pos:27,
     image: imagen27,
-    food:'Limonada Pet 300 ml',
+    food:'Limonata Pet 300 ml', //se cambio limonada por limonata
     price:'',
     ingredients:''},
 

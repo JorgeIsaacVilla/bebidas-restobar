@@ -7,7 +7,6 @@ import imagen4 from "./imgMenu1/img4.jpg";
 import imagen5 from "./imgMenu1/img5.jpg";
 import imagen6 from "./imgMenu1/img6.jpg";
 import imagen7 from "./imgMenu1/img7.jpg";
-import imagen8 from "./imgMenu1/img8.jpg";
 import imagen9 from "./imgMenu1/img9.jpg";
 import imagen10 from "./imgMenu1/img10.jpg";
 import imagen11 from "./imgMenu1/img11.jpg";
@@ -28,18 +27,6 @@ function Menu1({sectionId, onProductClick}) {
     }
 
     const menuItem =[
-    {pos:1,
-    image: imagen1,
-    food:'Acqua Pet 500 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:2,
-    image: imagen2,
-    food:'Acqua Pet 1.5 L',
-    price:'',
-    ingredients:''},
-
     {pos:3,
     image: imagen3,
     food:'Pet 2.5 L',
@@ -67,12 +54,6 @@ function Menu1({sectionId, onProductClick}) {
     {pos:7,
     image: imagen7,
     food:'Canada Dry 10 onz',
-    price:'',
-    ingredients:''},
-
-    {pos:8,
-    image: imagen8,
-    food:'Pet 400 ml',
     price:'',
     ingredients:''},
 
@@ -145,6 +126,18 @@ function Menu1({sectionId, onProductClick}) {
     {pos:20,
     image: imagen20,
     food:'Aguapanela Pet 400 ml',
+    price:'',
+    ingredients:''},
+
+    {pos:1,
+    image: imagen1,
+    food:'Acqua Pet 500 ml',
+    price:'',
+    ingredients:''},
+
+    {pos:2,
+    image: imagen2,
+    food:'Acqua Pet 1.5 L',
     price:'',
     ingredients:''},
     ];

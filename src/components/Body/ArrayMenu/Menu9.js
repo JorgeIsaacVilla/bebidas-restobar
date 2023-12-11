@@ -18,7 +18,7 @@ import imagen15 from "./imgMenu9/img15.jpg";
 import imagen16 from "./imgMenu9/img16.jpg";
 import imagen17 from "./imgMenu9/img17.jpg";
 import imagen18 from "./imgMenu9/img18.jpg";
-import imagen19 from "./imgMenu9/img19.jpg";
+
 import imagen20 from "./imgMenu9/img20.jpg";
 import imagen21 from "./imgMenu9/img21.jpg";
 import imagen22 from "./imgMenu9/img22.jpg";
@@ -145,12 +145,6 @@ function Menu9({sectionId, onProductClick}){
         {pos:18,
         image: imagen18,
         food:'Tecate 355 ml',
-        price:'',
-        ingredients:''},
-
-        {pos:19,
-        image: imagen19,
-        food:'Miller Lite 330 ml (Retornable)',
         price:'',
         ingredients:''},
 

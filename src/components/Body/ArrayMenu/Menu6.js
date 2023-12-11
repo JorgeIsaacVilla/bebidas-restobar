@@ -1,7 +1,5 @@
 import React from "react";
 import "./Menu.css";
-import imagen1 from "./imgMenu6/img1.jpg";
-import imagen2 from "./imgMenu6/img2.jpg";
 import imagen3 from "./imgMenu6/img3.jpg";
 import imagen4 from "./imgMenu6/img4.jpg";
 import imagen5 from "./imgMenu6/img5.jpg";
@@ -15,18 +13,6 @@ function Menu6({sectionId, onProductClick}){
     }
     
     const menuItem =[
-
-    {pos:1,
-    image: imagen1,
-    food:'Mr. Tea 20 gr',
-    price:'',
-    ingredients:''},
-    
-    {pos:2,
-    image: imagen2,
-    food:'Mr. Tea 250 gr',
-    price:'',
-    ingredients:''},
     
     {pos:3,
     image: imagen3,

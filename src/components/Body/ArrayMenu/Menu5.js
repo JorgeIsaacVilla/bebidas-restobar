@@ -1,7 +1,6 @@
 import React from "react";
 import "./Menu.css";
 import imagen1 from "./imgMenu5/img1.jpg";
-import imagen2 from "./imgMenu5/img2.jpg";
 import imagen3 from "./imgMenu5/img3.jpg";
 import imagen4 from "./imgMenu5/img4.jpg";
 import imagen5 from "./imgMenu5/img5.jpg";
@@ -18,12 +17,6 @@ function Menu5({sectionId, onProductClick}){
     {pos:1,
     image: imagen1,
     food:'Gatorade Pet 500 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:2,
-    image: imagen2,
-    food:'Gatorade 591 ml',
     price:'',
     ingredients:''},
     
