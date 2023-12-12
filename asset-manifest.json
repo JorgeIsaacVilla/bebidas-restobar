@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/bebidas-restobar/static/css/main.de04b6b2.css",
-    "main.js": "/bebidas-restobar/static/js/main.fef8d585.js",
+    "main.css": "/bebidas-restobar/static/css/main.9259c152.css",
+    "main.js": "/bebidas-restobar/static/js/main.58a795f8.js",
     "static/js/787.7a877da5.chunk.js": "/bebidas-restobar/static/js/787.7a877da5.chunk.js",
+    "static/media/BackgroundImage.jpg": "/bebidas-restobar/static/media/BackgroundImage.a71a9027f1b8f0d76354.jpg",
     "static/media/m9.png": "/bebidas-restobar/static/media/m9.2f80cb64f0f2eebaadc1.png",
     "static/media/m11.png": "/bebidas-restobar/static/media/m11.6c9dd241c62503e0de85.png",
     "static/media/m8.png": "/bebidas-restobar/static/media/m8.4d56fe18c400e7d92c41.png",
@@ -11,7 +12,6 @@
     "static/media/img16.jpg": "/bebidas-restobar/static/media/img16.90ba963e561e932cfac9.jpg",
     "static/media/img17.jpg": "/bebidas-restobar/static/media/img17.b1d08ada0e4e39c2f54c.jpg",
     "static/media/img6.jpg": "/bebidas-restobar/static/media/img6.adf17cbb1ebed3e30830.jpg",
-    "static/media/BackgroundImage.jpg": "/bebidas-restobar/static/media/BackgroundImage.11d6d093829b707f31ad.jpg",
     "static/media/m6.png": "/bebidas-restobar/static/media/m6.9fdb40e28bc41c0892ff.png",
     "static/media/m1.png": "/bebidas-restobar/static/media/m1.e5cb6131f0ef3d8a58b3.png",
     "static/media/m10.png": "/bebidas-restobar/static/media/m10.a797b771bee080d347a3.png",
@@ -49,6 +49,7 @@
     "static/media/img31.jpg": "/bebidas-restobar/static/media/img31.d7ef7e25d1137f458fa6.jpg",
     "static/media/imgQrNequi.PNG": "/bebidas-restobar/static/media/imgQrNequi.0be9d643f601317545de.PNG",
     "static/media/img24.jpg": "/bebidas-restobar/static/media/img24.4b9ca5c29a13676ff0e4.jpg",
+    "static/media/logo_post.png": "/bebidas-restobar/static/media/logo_post.d86d01684e86b0b93cc5.png",
     "static/media/icoInstagram.svg": "/bebidas-restobar/static/media/icoInstagram.818d293fde816691d81c369f53855894.svg",
     "static/media/icoDomicilio.svg": "/bebidas-restobar/static/media/icoDomicilio.157102dc7f38f7bc624db08e2858b794.svg",
     "static/media/icoBancolombia.svg": "/bebidas-restobar/static/media/icoBancolombia.012678d92dd4778e45ca5134f25668cb.svg",
@@ -63,12 +64,12 @@
     "index.html": "/bebidas-restobar/index.html",
     "static/media/icoFacebook.svg": "/bebidas-restobar/static/media/icoFacebook.b5a88e6a91c84e1aa5ae291ec7335f35.svg",
     "static/media/icoMenuClosed.svg": "/bebidas-restobar/static/media/icoMenuClosed.356d101572de6c63db16.svg",
-    "main.de04b6b2.css.map": "/bebidas-restobar/static/css/main.de04b6b2.css.map",
-    "main.fef8d585.js.map": "/bebidas-restobar/static/js/main.fef8d585.js.map",
+    "main.9259c152.css.map": "/bebidas-restobar/static/css/main.9259c152.css.map",
+    "main.58a795f8.js.map": "/bebidas-restobar/static/js/main.58a795f8.js.map",
     "787.7a877da5.chunk.js.map": "/bebidas-restobar/static/js/787.7a877da5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de04b6b2.css",
-    "static/js/main.fef8d585.js"
+    "static/css/main.9259c152.css",
+    "static/js/main.58a795f8.js"
   ]
 }
