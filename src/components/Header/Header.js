@@ -19,6 +19,7 @@ function Header() {
                     <div>
                         <a href="https://eldesviorestobar59.com" className="access-online-tarjet"><strong>Ver carta online</strong></a>
                     </div>
+                    <div className="logo-postobon"></div>
                 </div>
                 <div className="menu-hamburguesa" onClick={toggleMenu}></div>
             </section>
