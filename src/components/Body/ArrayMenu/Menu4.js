@@ -19,72 +19,72 @@ function Menu4({sectionId, onProductClick}){
     }
     
     const menuItem =[
-                    
-    {pos:1,
-    image: imagen1,
-    food:'Speed Max Lata 269 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:2,
-    image: imagen2,
-    food:'Speed Max Pet 400 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:3,
-    image: imagen3,
-    food:'Speed Max Pet L',
-    price:'',
-    ingredients:''},
-
-    {pos:4,
-    image: imagen4,
-    food:'Speed Max Lata 355 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:5,
-    image: imagen5,
-    food:'Speed Max Pet 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:6,
-    image: imagen6,
-    food:'Speed Max cero 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:7,
+                     
+    {pos: 7, 
     image: imagen7,
-    food:'Peak 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:8,
+    food: 'Peak 250 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 6, 
+    image: imagen6,
+    food: 'Speed Max cero 250 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 5, 
+    image: imagen5,
+    food: 'Speed Max Pet 250 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 1, 
+    image: imagen1,
+    food: 'Speed Max Lata 269 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 8, 
     image: imagen8,
-    food:'Red Bull Lata 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:9,
+    food: 'Red Bull Lata 250 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 2, 
+    image: imagen2,
+    food: 'Speed Max Pet 400 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 3, 
+    image: imagen3,
+    food: 'Speed Max Pet L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 4, 
+    image: imagen4,
+    food: 'Speed Max Lata 355 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 9, 
     image: imagen9,
-    food:'RedBull Lata 355 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:10,
+    food: 'RedBull Lata 355 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 10, 
     image: imagen10,
-    food:'RedBull Tropical 355 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:11,
+    food: 'RedBull Tropical 355 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 11, 
     image: imagen11,
-    food:'Sugar Free 355 ml',
-    price:'',
-        ingredients:''},
+    food: 'Sugar Free 355 ml', 
+    price: '', 
+    ingredients: ''}
     
     ]
     return(

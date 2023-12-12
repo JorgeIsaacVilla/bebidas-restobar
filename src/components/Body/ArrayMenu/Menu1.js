@@ -27,101 +27,83 @@ function Menu1({sectionId, onProductClick}) {
     }
 
     const menuItem =[
-    {pos:3,
-    image: imagen3,
-    food:'Pet 2.5 L',
-    price:'',
-    ingredients:''},
+        
+    {pos: 4, 
+    image: imagen4, 
+    food: 'Pet 250 ml', 
+    price: '', 
+    ingredients: ''},
 
-    {pos:4,
-    image: imagen4,
-    food:'Pet 250 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:5,
-    image: imagen5,
-    food:'Pet 2 L',
-    price:'',
-    ingredients:''},
-
-    {pos:6,
-    image: imagen6,
-    food:'Pet 1 L',
-    price:'',
-    ingredients:''},
-
-    {pos:7,
-    image: imagen7,
-    food:'Canada Dry 10 onz',
-    price:'',
-    ingredients:''},
-
-    {pos:9,
-    image: imagen9,
-    food:'12 onz (Retornable)',
-    price:'',
-    ingredients:''},
-
-    {pos:10,
-    image: imagen10,
-    food:'1.25 L',
-    price:'',
-    ingredients:''},
-
-    {pos:11,
-    image: imagen11,
-    food:'2.0 PRB (Retornable)',
-    price:'',
-    ingredients:''},
-
-    {pos:12,
-    image: imagen12,
-    food:'Lata 269 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:13,
-    image: imagen13,
-    food:'Pet 1.75 L',
-    price:'',
-    ingredients:''},
-
-    {pos:14,
-    image: imagen14,
-    food:'Pet 3.125 L',
-    price:'',
-    ingredients:''},
-
-    {pos:15,
-    image: imagen15,
-    food:'Pet 600 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:16,
-    image: imagen16,
-    food:'Pet 500 ml',
-    price:'',
-    ingredients:''},
-
-    {pos:17,
-    image: imagen17,
-    food:'Pet 1.5 L',
-    price:'',
-    ingredients:''},
-
-    {pos:18,
-    image: imagen18,
-    food:'8,5 onz (Retornable)',
-    price:'',
-    ingredients:''},
-
-    {pos:19,
-    image: imagen19,
-    food:'Aguapanela Pet 1.5 L',
-    price:'',
-    ingredients:''},
+    
+    {pos: 12, image: imagen12, 
+    food: 'Lata 269 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 7, image: imagen7, 
+    food: 'Canada Dry 10 onz', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 9, image: imagen9, 
+    food: '12 onz (Retornable)', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 16, image: imagen16, 
+    food: 'Pet 500 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 15, image: imagen15, 
+    food: 'Pet 600 ml', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 11, image: imagen11, 
+    food: '2.0 PRB (Retornable)', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 10, image: imagen10, 
+    food: '1.25 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 17, image: imagen17, 
+    food: 'Pet 1.5 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 6, image: imagen6, 
+    food: 'Pet 1 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 13, image: imagen13, 
+    food: 'Pet 1.75 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 2, image: imagen3, 
+    food: 'Pet 2.5 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 5, image: imagen5, 
+    food: 'Pet 2 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 14, image: imagen14, 
+    food: 'Pet 3.125 L', 
+    price: '', 
+    ingredients: ''},
+    
+    {pos: 18, image: imagen18, 
+    food: '8,5 onz (Retornable)', 
+    price: '', 
+    ingredients: ''},  
 
     {pos:20,
     image: imagen20,
@@ -132,6 +114,12 @@ function Menu1({sectionId, onProductClick}) {
     {pos:1,
     image: imagen1,
     food:'Acqua Pet 500 ml',
+    price:'',
+    ingredients:''},
+
+    {pos:19,
+    image: imagen19,
+    food:'Aguapanela Pet 1.5 L',
     price:'',
     ingredients:''},
 

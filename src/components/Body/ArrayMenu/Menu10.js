@@ -12,32 +12,12 @@ function Menu10({sectionId, onProductClick}){
     }
     
     const menuItem =[
-   
-    {pos:1,
-    image: imagen1,
-    food:'Original 1 L',
-    price:'',
-    ingredients:''},
-    
-    {pos:2,
-    image: imagen2,
-    food:'Coconut 1 L',
-    price:'',
-    ingredients:''},
-    
-    {pos:3,
-    image: imagen3,
-    food:'Sin azúcar 1 L',
-    price:'',
-    ingredients:''},
-    
-    {pos:4,
-    image: imagen4,
-    food:'Cristal Aloe Pet 330 ml',
-    price:'',
-    ingredients:''},
-        
-    ]
+        {pos: 4, image: imagen4, food: 'Cristal Aloe Pet 330 ml', price: '', ingredients: ''},
+        {pos: 1, image: imagen1, food: 'Original 1 L', price: '', ingredients: ''},
+        {pos: 2, image: imagen2, food: 'Coconut 1 L', price: '', ingredients: ''},
+        {pos: 3, image: imagen3, food: 'Sin azúcar 1 L', price: '', ingredients: ''}
+      ]
+      
     return(
         <>
             <h2 className="tittle-item" id={sectionId}>BEBIDA FUNCIONAL</h2>

@@ -13,38 +13,13 @@ function Menu8({sectionId, onProductClick}){
     }
     
     const menuItem =[
-
-    {pos:1,
-    image: imagen1,
-    food:'Natu Malta Botella 330 ml (Retornable)',
-    price:'',
-    ingredients:''},
-    
-    {pos:2,
-    image: imagen2,
-    food:'Natu Malta Pet 200 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:3,
-    image: imagen3,
-    food:'Natu Malta Pet 400 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:4,
-    image: imagen4,
-    food:'Natu Malta Pet 1 L',
-    price:'',
-    ingredients:''},
-    
-    {pos:5,
-    image: imagen5,
-    food:'Natu Malta 1.5 L',
-    price:'',
-    ingredients:''},
-    
-    ]
+        {pos: 2, image: imagen2, food: 'Natu Malta Pet 200 ml', price: '', ingredients: ''},
+        {pos: 3, image: imagen3, food: 'Natu Malta Pet 400 ml', price: '', ingredients: ''},
+        {pos: 1, image: imagen1, food: 'Natu Malta Botella 330 ml (Retornable)', price: '', ingredients: ''},
+        {pos: 4, image: imagen4, food: 'Natu Malta Pet 1 L', price: '', ingredients: ''},
+        {pos: 5, image: imagen5, food: 'Natu Malta 1.5 L', price: '', ingredients: ''}
+      ]
+      
     return(
         <>
             <h2 className="tittle-item" id={sectionId}>MALTAS</h2>

@@ -13,38 +13,43 @@ function Menu5({sectionId, onProductClick}){
     }
 
     const menuItem =[
-            
-    {pos:1,
-    image: imagen1,
-    food:'Gatorade Pet 500 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:3,
-    image: imagen3,
-    food:'Gatorade Pet L',
-    price:'',
-    ingredients:''},
-    
-    {pos:4,
-    image: imagen4,
-    food:'Squash Pet 500 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:5,
-    image: imagen5,
-    food:'Squash Pet 250 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:6,
-    image: imagen6,
-    food:'G Active 500 ml',
-    price:'',
-    ingredients:''},
-    
-    ]
+        
+        {pos: 5, 
+        image: 
+        imagen5, 
+        food: 'Squash Pet 250 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 4, 
+        image: 
+        imagen4, 
+        food: 'Squash Pet 500 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 1, 
+        image: 
+        imagen1, 
+        food: 'Gatorade Pet 500 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 6, 
+        image: 
+        imagen6, 
+        food: 'G Active 500 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 3, 
+        image: 
+        imagen3, 
+        food: 'Gatorade Pet L', 
+        price: '', 
+        ingredients: ''}
+      ]
+      
     return(
         <>
             <h2 className="tittle-item" id={sectionId}>HIDRATANTES</h2>

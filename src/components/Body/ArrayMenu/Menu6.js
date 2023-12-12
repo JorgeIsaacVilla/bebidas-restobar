@@ -13,38 +13,37 @@ function Menu6({sectionId, onProductClick}){
     }
     
     const menuItem =[
-    
-    {pos:3,
-    image: imagen3,
-    food:'Mr. Tea 200 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:4,
-    image: imagen4,
-    food:'Mr. Tea 500 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:5,
-    image: imagen5,
-    food:'Mr Tea 1.5 L',
-    price:'',
-    ingredients:''},
-    
-    {pos:6,
-    image: imagen6,
-    food:'Mr. Tea 250 ml',
-    price:'',
-    ingredients:''},
-    
-    {pos:7,
-    image: imagen7,
-    food:'Mr. Tea 300 ml',
-    price:'',
-    ingredients:''},
-
-        ]
+        {pos: 3, 
+        image: imagen3, 
+        food: 'Mr. Tea 200 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 6, 
+        image: imagen6, 
+        food: 'Mr. Tea 250 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 7, 
+        image: imagen7, 
+        food: 'Mr. Tea 300 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 4, 
+        image: imagen4, 
+        food: 'Mr. Tea 500 ml', 
+        price: '', 
+        ingredients: ''},
+        
+        {pos: 5, 
+        image: imagen5, 
+        food: 'Mr Tea 1.5 L', 
+        price: '', 
+        ingredients: ''}
+      ]
+      
     return(
         <>
             <h2 className="tittle-item" id={sectionId}>BEBIDA DE TÉ</h2>
