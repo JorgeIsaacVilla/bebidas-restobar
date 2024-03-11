@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bebidas-restobar/static/css/main.9259c152.css",
-    "main.js": "/bebidas-restobar/static/js/main.58a795f8.js",
+    "main.js": "/bebidas-restobar/static/js/main.b912e255.js",
     "static/js/787.7a877da5.chunk.js": "/bebidas-restobar/static/js/787.7a877da5.chunk.js",
     "static/media/BackgroundImage.jpg": "/bebidas-restobar/static/media/BackgroundImage.a71a9027f1b8f0d76354.jpg",
     "static/media/m9.png": "/bebidas-restobar/static/media/m9.2f80cb64f0f2eebaadc1.png",
@@ -65,11 +65,11 @@
     "static/media/icoFacebook.svg": "/bebidas-restobar/static/media/icoFacebook.b5a88e6a91c84e1aa5ae291ec7335f35.svg",
     "static/media/icoMenuClosed.svg": "/bebidas-restobar/static/media/icoMenuClosed.356d101572de6c63db16.svg",
     "main.9259c152.css.map": "/bebidas-restobar/static/css/main.9259c152.css.map",
-    "main.58a795f8.js.map": "/bebidas-restobar/static/js/main.58a795f8.js.map",
+    "main.b912e255.js.map": "/bebidas-restobar/static/js/main.b912e255.js.map",
     "787.7a877da5.chunk.js.map": "/bebidas-restobar/static/js/787.7a877da5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9259c152.css",
-    "static/js/main.58a795f8.js"
+    "static/js/main.b912e255.js"
   ]
 }
